@@ -1,4 +1,4 @@
-# NLP Sentiment Analysis
+# Sentiment Analysis using Natural Language Processing
 
 This project focuses on the development of deep learning models for sentiment analysis tasks, exploring the techniques of logistic regression, Feedforward Neural Networks (FNN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU) with attention mechanisms, and Bidirectional Encoder Representations from Transformers (BERT). 
 
