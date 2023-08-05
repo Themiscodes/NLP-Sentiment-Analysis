@@ -4,7 +4,7 @@ This project focuses on the development of deep learning models for sentiment an
 
 The primary objective is to build sentiment classifiers capable of evaluating the polarity, positive or negative, of a given piece of text. The IMDb movie reviews dataset is employed for training, and to boost the models' performance, an in-depth exploration of preprocessing, tokenizing, and feature extraction techniques is conducted.
 
-### Overview
+## Overview
 
 ![lstmcell](https://github.com/Themiscodes/NLP-Sentiment-Analysis/assets/73662635/db808618-fc20-4105-b85d-dd7a6eda475b)
 
@@ -25,7 +25,7 @@ The BERT-based model, with its larger parameter size, demonstrated the best perf
 
 Logistic regression exhibited strong performance; however, its effectiveness is significantly influenced by the quality of the features and the nature of the NLP task. In contrast, the feedforward network underperformed due to the absence of a memory component, limiting their ability to process sequential data like text. For further analysis, and evaluation metrics, refer to the corresponding notebooks.
 
-### References
+## References
 
 [^1]: [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin.
 
