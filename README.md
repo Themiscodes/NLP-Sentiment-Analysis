@@ -6,7 +6,7 @@ The primary objective is to build sentiment classifiers capable of evaluating th
 
 ## Overview
 
-![lstmcell](https://github.com/Themiscodes/NLP-Sentiment-Analysis/assets/73662635/db808618-fc20-4105-b85d-dd7a6eda475b)
+![lstm4](https://github.com/Themiscodes/Quantum-Neural-Networks/assets/73662635/4d4868c4-0340-40e4-a893-7be633099547)
 
 The [experiments](experiments/) directory showcases the construction of the RNN architectures with stacked LSTM and GRU cells, integrating attention mechanisms to capture important patterns in the input sequences. Additionally, gradient clipping, and skip connections are extensively explored to improve convergence and generalization. Gradient clipping prevents exploding gradients by capping them to a predefined threshold, stabilizing model weight updates. Skip connections enable better gradient flow, addressing the vanishing gradient problem, and enhancing learning of long-range dependencies.
 
